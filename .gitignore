@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.tmp
+*.log
+.env
+*.key
+*.pem
+*.parquet
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.gguf
+target/
+node_modules/
+projects/01-meta-engine-and-meta-algorithm-agents/raw_note/
